@@ -8,7 +8,9 @@ AutoFarmBot is an advanced automation tool designed to automatically play games 
 **⚡ Features**
 
 Automated Gameplay: Simulates human behavior to automatically play games and perform tasks.
+
 High-Speed Point Farming: Optimized to quickly farm points, rewards, and in-game currency.
+
 Multi-Game Support: Compatible with various games that require repetitive actions, farming, or grinding.
 Customizable: Set custom behaviors, intervals, and actions to suit specific game requirements.
 Anti-Detection Measures: Includes stealth features to reduce the chances of detection by anti-bot systems.
